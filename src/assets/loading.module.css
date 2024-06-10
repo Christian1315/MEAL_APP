@@ -1,0 +1,11 @@
+#loading p {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    background-color: black;
+    color: #fff;
+    z-index: 100;
+    color: #fff!important;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
